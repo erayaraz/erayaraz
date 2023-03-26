@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am a talented and motivated Java Developer with experience in SAP Hybris.
+I am a talented and motivated Java Developer with experience in SAP Hybris. With a strong background in Java, Spring Boot, and Javascript, I have been able to deliver high-quality solutions for my clients. As a part of a consulting firm, I have been exposed to a wide range of projects, allowing me to gain a wealth of experience in areas such as authentication processes, Solr and cache management, asynchronous structures, payment integration, and more.
 
+I am always seeking new challenges and opportunities to grow as a professional and to contribute my skills to the success of my clients.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erayaraz/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@erayaraz10) 
